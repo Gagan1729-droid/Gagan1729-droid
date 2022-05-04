@@ -5,7 +5,7 @@
 - On the way to become a professional android developer.
 
 ## 🧰 Languages and Tools:
-<div>  
+<p align="center">  
   <img src= "https://cdn.worldvectorlogo.com/logos/c-1.svg" width="50" height="50">
   <img src= "https://cdn.worldvectorlogo.com/logos/java-14.svg" width="50" height="50">
   <img src= "https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50">
@@ -16,17 +16,16 @@
   <img src= "https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="50" height="50">
   <img src= "https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50" height="50">
   <img src= "https://cdn.worldvectorlogo.com/logos/linux-tux-1.svg" width="50" height="50">
-</div>
+</p>
 
-## Connect with me on:
+## 🤝 Connect with me on:
 <a href="">
-  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="30" height="30">
-</a> 
-&nbsp;
-<a href="">
-  <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="30" height="30">
+<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="30" height="30">
 </a>
 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dacelis0@misena.edu.co)](mailto:gagan123.sp@gmail.com)
+  
+  
 ## &#x1f4c8; My stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gagan1729-droid&show_icons=true&theme=radical)

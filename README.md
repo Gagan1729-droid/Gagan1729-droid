@@ -5,15 +5,17 @@
 - On the way to become a professional android developer.
 
 ## 🧰 Languages and Tools:
-<div>
-  <img src= "" width="50" height="50">
-  <img src= "" width="50" height="50">
-  <img src= "" width="50" height="50">
-  <img src= "" width="50" height="50">
-  <img src= "" width="50" height="50">
-  <img src= "" width="50" height="50">
-  <img src= "" width="50" height="50">
-  <img src= "" width="50" height="50">
+<div>  
+  <img src= "https://cdn.worldvectorlogo.com/logos/c-1.svg" width="50" height="50">
+  <img src= "https://cdn.worldvectorlogo.com/logos/java-14.svg" width="50" height="50">
+  <img src= "https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50">
+  <img src= "https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50">
+  <img src= "https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="50" height="50">
+  <img src= "https://cdn.worldvectorlogo.com/logos/android-4.svg" width="50" height="50">
+  <img src= "https://cdn.worldvectorlogo.com/logos/nodejs.svg" width="80" height="40">
+  <img src= "https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="50" height="50">
+  <img src= "https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50" height="50">
+  <img src= "https://cdn.worldvectorlogo.com/logos/linux-tux-1.svg" width="50" height="50">
 </div>
 
 ## Connect with me on:

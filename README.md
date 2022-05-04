@@ -1,4 +1,36 @@
-### Hi there 👋
+## Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+- I am Gagan Gupta.
+- I'm from Kanpur, currently pursuing B.Tech in Computer Science and Engineering at MNNIT Allahabad.
+- On the way to become a professional android developer.
+
+## 🧰 Languages and Tools:
+<div>
+  <img src= "" width="50" height="50">
+  <img src= "" width="50" height="50">
+  <img src= "" width="50" height="50">
+  <img src= "" width="50" height="50">
+  <img src= "" width="50" height="50">
+  <img src= "" width="50" height="50">
+  <img src= "" width="50" height="50">
+  <img src= "" width="50" height="50">
+</div>
+
+## Connect with me on:
+<a href="">
+  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="30" height="30">
+</a> 
+&nbsp;
+<a href="">
+  <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="30" height="30">
+</a>
+
+## &#x1f4c8; My stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gagan1729-droid&show_icons=true&theme=radical)
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagan1729-droid&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Gagan1729-droid/Gagan1729-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

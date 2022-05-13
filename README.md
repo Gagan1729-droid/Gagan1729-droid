@@ -1,4 +1,5 @@
-## Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<!-- ## Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
+<p align="center"> <img src="https://github.com/Gagan1729-droid/Gagan1729-droid/blob/main/text.gif" alt ="Hey there!"> </p>
 
 - I am Gagan Gupta.
 - I'm from Kanpur, currently pursuing B.Tech in Computer Science and Engineering at MNNIT Allahabad.
@@ -31,7 +32,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gagan1729-droid&show_icons=true&theme=radical)
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagan1729-droid&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **Gagan1729-droid/Gagan1729-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

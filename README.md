@@ -14,7 +14,7 @@
   <img src= "https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="50" height="50">
   <img src= "https://cdn.worldvectorlogo.com/logos/android-4.svg" width="50" height="50">
   <img src= "https://cdn.worldvectorlogo.com/logos/nodejs.svg" width="80" height="40">
-  <img src= "https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="50" height="50">
+  <img src= "https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" width="50" height="50">
   <img src= "https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50" height="50">
   <img src= "https://cdn.worldvectorlogo.com/logos/linux-tux-1.svg" width="50" height="50">
 </p>
